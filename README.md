@@ -1,4 +1,3 @@
-# ATMT-in-java
 🎥🎟️ Any Time Movie Ticket (ATMT) Project 🎥🎟️
 Welcome to the world of ATMT, where movie ticket booking becomes a breeze! 🌟
 ATMT is a user-friendly project that allows movie enthusiasts to easily book their tickets online. 🎬🎟️
