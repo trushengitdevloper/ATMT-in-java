@@ -36,4 +36,4 @@ and convenience throughout the booking process. 🎟️💰📊
 * ATMT is built on a robust and reliable platform, ensuring smooth operations and
 efficient ticket management. Companies can trust ATMT to handle high volumes of ticket bookings,
 providing a reliable solution for their ticketing needs. 📈🎫🔒<br>
-## visit My portfolio Website 🌐https://main--solanki-trushen.netlify.app/
+## Visit my portfolio Website 🌐https://main--solanki-trushen.netlify.app/
